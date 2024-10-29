@@ -1,6 +1,6 @@
 .odd {
     color: rgb(0, 0, 0);
-    background-color: hsl(0, 100%, 83%);
+    background-color: hwb(0 66% 0%);
     font-family: Verdana, "DejaVu Sans", sans-serif;
   }
 
